@@ -4,7 +4,7 @@ console.log('h1 log', headerOne)
 
 headerOne.style.color = 'red';
 
-colorLinks("purple");
+colorLinks("red");
 
 function colorLinks(hex)
 {
