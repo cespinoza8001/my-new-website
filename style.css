@@ -19,3 +19,12 @@ P {
 .NewWorld {
     text-align: left;
 }
+
+img {
+    max-height: 300px;
+    max-width: 300px;
+}
+
+.Tarkov {
+    text-align: left;
+}
